@@ -3,6 +3,6 @@
 int main()
 {
 	std::cout << "repeat" << std::endl;
-	master commit
+	commit
 	return EXIT_SUCCESS;
 }
